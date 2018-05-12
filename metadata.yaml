@@ -1,0 +1,34 @@
+_repo: Old-Wine-and-NewOccasional-Discourses_37794
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cross, Joseph
+    alias: Cross, J. (Joseph)
+    birthdate: 1813
+    deathdate: 1893
+    gutenberg_agent_id: '39069'
+    url: http://www.gutenberg.org/2009/agents/39069
+description: ''
+gutenberg_issued: '2011-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37794'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons, American'
+- !lcc 'BV'
+tableOfContents: Filial hope -- Rest for the weary -- My beloved and friend -- Refuge
+  in God -- Parental discipline -- Joy of the law -- Sojourning with God -- Building
+  for immortality -- Wail of bereavement -- Wisdom and weapons -- Love tested -- Manifold
+  temptations -- Contest and coronation -- Calvary token -- Heroism triumphant --
+  Fraternal forgiveness -- Christ with his ministers -- Kept from evil -- Contending
+  for the faith -- The fruitless fig-tree -- Christian contentment -- "Ye know the
+  grace."
+title: 'Old Wine and New: Occasional Discourses'
+url: http://www.gutenberg.org/ebooks/37794
